@@ -1,0 +1,1 @@
+This is a simple GUI webinterface to extract data from the activity logs endpoint of the monday.com API
